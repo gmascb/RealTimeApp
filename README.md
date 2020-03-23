@@ -17,3 +17,6 @@ Things you may want to cover:
 
 * Configuration
   * yarn add jquery
+
+
+https://www.youtube.com/watch?v=nRP91C1uX-w
