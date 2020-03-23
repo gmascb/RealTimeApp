@@ -6,19 +6,14 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
+  * 2.5.7
+
+* Rails version
+  * 6.0.2.2
 
 * System dependencies
+  * npm
+  * yarn
 
 * Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+  * yarn add jquery
